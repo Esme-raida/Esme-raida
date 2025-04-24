@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, I'm Raeedah!
 
-<!--
-**Esme-raida/Esme-raida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am a self-driven mechatronics student exploring the world of front-end developement and automation.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning JAVASCRIPT  and building web projects.
+- Soon diving into PYTHON for scripting and automation.
+- 👯 I’m looking to collaborate on/and interested in tech that bridges hardware and software.
+  ## Projects in progress
+- To-do List App (Vanilla JS)
+
+
+  
+- 📫 How to reach me: Reach me at : EMAIL - raeedahmusa@gmail.com || 
+Let's connect, learn, and build-one project at a time
