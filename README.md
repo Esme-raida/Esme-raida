@@ -7,8 +7,11 @@ Here are some ideas to get you started:
 - I’m currently learning JAVASCRIPT  and building web projects.
 - Soon diving into PYTHON for scripting and automation.
 - 👯 I’m looking to collaborate on/and interested in tech that bridges hardware and software.
-  ## Projects in progress
+  ## Projects
 - To-do List App (Vanilla JS)
+- A Basic Calculator
+- A Weather App
+- A Quiz App(In progress)
 
 
   
