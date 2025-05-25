@@ -1,4 +1,4 @@
-## Hello, I'm Raeedah!
+## Hello, I'm Raeedah! 💅
 
 
 I am a self-driven mechatronics student exploring the world of front-end developement and automation.
