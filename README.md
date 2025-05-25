@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - A Basic Calculator
 - A Weather App
 - A Form Validator
-- A Quiz App(In progress)
+- A Pomodoro Timer(In Progress)
 
 
   
